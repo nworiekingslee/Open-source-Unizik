@@ -7,7 +7,9 @@ module.exports = {
     extend: {colors: {
       'brand': '#605AD6',
       'dark': '#0B0825',
-      'background': '#FAFBFC'
+      'background': '#FAFBFC',
+      'text': '#24292E',
+      'text-secondary': '#57606A'
     },},
   },
   plugins: [],
