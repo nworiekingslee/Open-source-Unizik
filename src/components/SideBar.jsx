@@ -7,8 +7,11 @@ const SideBar = () => {
         <li className="mb-2"> Visit and fork the repo</li>
         <li className="mb-2"> Clone the repository and create a branch</li>
         <li className="mb-2"> Add your details using this guide</li>
-        <li className="mb-2"> Add your details using this guide</li>
-        <li className="mb-2"> Add your details in ./uils/members.js file</li>
+        <li className="mb-2"> Commit and push your changes</li>
+        <li className="mb-2">
+          {" "}
+          Create a pull request and wait for your contribution to be merged
+        </li>
       </ul>
       {/* <span>Visit and fork the repo</span> */}
     </div>

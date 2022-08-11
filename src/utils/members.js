@@ -16,6 +16,18 @@ export const members = [
     role: "Backend Developer",
     github_username: "devgenix",
     skills: ["Django", "Python"]
+},
+{
+    name: "Chinwedu Nwazojie",
+    role: "Fullstack Developer",
+    github_username: "lumencodes",
+    skills: ["NodeJS", "Express", "Python", "Javascript" ]
+},
+{
+    name: "Onyiyechi Uchechukwu",
+    role: "Technical Writer, Designer",
+    github_username: "omegasisters",
+    skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw" ]
 }
 ]
 
