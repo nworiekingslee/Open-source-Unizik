@@ -22,6 +22,12 @@ export const members = [
     role: "Fullstack Developer",
     github_username: "lumencodes",
     skills: ["NodeJS", "Express", "Python", "Javascript" ]
+},
+{
+    name: "Onyiyechi Uchechukwu",
+    role: "Technical Writer, Designer",
+    github_username: "omegasisters",
+    skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw" ]
 }
 ]
 
