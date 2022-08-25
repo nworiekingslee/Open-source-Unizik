@@ -22,16 +22,14 @@ Never made an open source contribution before? Wondering how contributions work 
 1. Celebrate your success after your pull request is merged! 🎉
 
 
-## Adding a New Status Code
+## Adding a New Member
 
-- Please addd the steps to add their names in the members.js file.
-- Include what to look out for.
-- ......
+- Please follow the steps to add your profile in the members.js file.
 
 - What you will add to the file should look like this:
 
 ```js
- {
+ ,{
     name: "John Doe",
     role: "A frontend Software Engineer",
     github_username: "john-'doe",
@@ -39,13 +37,9 @@ Never made an open source contribution before? Wondering how contributions work 
 }
 ```
 
-Note the code, title and description (which is used for [image alt text](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/alt) are all required. The title should match the title on https://httpstatuses.com/ for that particular status code.
-
+Note the name, role, github_username and skills key-value pairs in the object and the comma before the object to separate it from the previous object in the array.
 
 ## Where can I go for help?
 - If you need help, you can ask questions directly in the pull request or issue. 
-
-## What does the Code of Conduct mean for me?
-- Our [Code of Conduct](CODE_OF_CONDUCT.md) means that you are responsible for treating everyone on the project with respect and courtesy regardless of their identity. If you are the victim of any inappropriate behavior or comments as described in our Code of Conduct, we are here for you and will do the best to ensure that the abuser is reprimanded appropriately, per our code.
 
 Portions of this contributing.md file are based off of Safia Abdalla's [template for creating open source contributor guidelines](https://opensource.com/life/16/3/contributor-guidelines-template-and-tips)
