@@ -1,6 +1,6 @@
 export const members = [
     /**
-     * To add your name here please make sure you add a comma before adding your details and lso add your details to the end of the last member profile using this format.
+     * To add your name here please make sure you add a comma before adding your details and also add your details to the end of the last member profile using this format.
      * 
      * {
          name: "Surname Lastname",
