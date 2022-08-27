@@ -49,11 +49,24 @@ export const members = [
   },
 
 {
+    name: "Faraday Africa",
+    role: "Edtech Platform",
+    github_username: "faradayadmin",
+    skills: ["God abeg", "Success", "HTML", "CSS"]
+   },
+{
+    name: "Olumide Micheal",
+    role: "Software Engineer",
+    github_username: "codewithmide",
+    skills: ["C", "Python", "HTML", "CSS", "JavaScript"]
+},{
+
     name: "Nweke Kenechukwu Christopher",
     role: "frontend Developer",
     github_username: "ken286",
     skills: ["Html", "css", "javascript" ]
 },
+
 ]
 
 
