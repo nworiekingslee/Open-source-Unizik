@@ -22,26 +22,6 @@ Never made an open source contribution before? Wondering how contributions work 
 1. Celebrate your success after your pull request is merged! 🎉
 
 
-## Adding a New Status Code
-
-- Please addd the steps to add their names in the members.js file.
-- Include what to look out for.
-- ......
-
-- What you will add to the file should look like this:
-
-```js
- {
-    name: "John Doe",
-    role: "A frontend Software Engineer",
-    github_username: "john-'doe",
-    skills: ["React", "Javascript", "HTML", "CSS"]
-}
-```
-
-Note the code, title and description (which is used for [image alt text](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/alt) are all required. The title should match the title on https://httpstatuses.com/ for that particular status code.
-
-
 ## Where can I go for help?
 - If you need help, you can ask questions directly in the pull request or issue. 
 

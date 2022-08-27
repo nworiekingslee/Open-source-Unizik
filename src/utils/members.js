@@ -38,6 +38,7 @@ export const members = [
     name: "Onyiyechi Uchechukwu",
     role: "Technical Writer, Designer",
     github_username: "omegasisters",
+
     skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw"],
   },
   {
@@ -46,6 +47,35 @@ export const members = [
     github_username: "tobySolutions",
     skills: ["React", "Javascript", "HTML", "CSS", "SASS"],
   },
-];
 
-export default members
+
+  {
+    name: "Gideon Bature",
+    role: "Full-Stack Engineer, Smart Contract Engineer, DevOps",
+    github_username: "GideonBature",
+    skills: ["HTML", "CSS", "JavaScript", "Solidity", "Docker", "VMWare"],
+  },
+
+{
+    name: "Faraday Africa",
+    role: "Edtech Platform",
+    github_username: "faradayadmin",
+    skills: ["God abeg", "Success", "HTML", "CSS"]
+   },
+{
+    name: "Olumide Micheal",
+    role: "Software Engineer",
+    github_username: "codewithmide",
+    skills: ["C", "Python", "HTML", "CSS", "JavaScript"]
+},{
+
+    name: "Nweke Kenechukwu Christopher",
+    role: "frontend Developer",
+    github_username: "ken286",
+    skills: ["Html", "css", "javascript" ]
+},
+
+]
+
+
+export default members;
