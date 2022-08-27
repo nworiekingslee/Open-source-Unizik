@@ -1,15 +1,10 @@
 export const members = [
-    /**
-     * To add your name here please make sure you add a comma before adding your details and also add your details to the end of the last member profile using this format.
-     * 
-     * {
-         name: "Surname Lastname",
-         role: "Your role in tech",
-         github_username: "nworiekingslee",
-         skills: ["React", "Javascript", "HTML", "CSS"]
-        }
-     * please do not leave anyone blank.
-     */
+{
+    name: "Olumide Micheal",
+    role: "ALX Software Engineering Student",
+    github_username: "codewithmide",
+    skills: ["React", "Javascript", "HTML", "CSS", "C", "Python"]
+},
 {
     name: "Nworie Kingsley",
     role: "A frontend Software Engineer",
