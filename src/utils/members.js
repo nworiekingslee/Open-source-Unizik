@@ -45,7 +45,13 @@ export const members = [
     role: "Edtech Platform",
     github_username: "faradayadmin",
     skills: ["God abeg", "Success", "HTML", "CSS"]
-   }
+   },
+{
+    name: "Olumide Micheal",
+    role: "Software Engineer",
+    github_username: "codewithmide",
+    skills: ["C", "Python", "HTML", "CSS", "JavaScript"]
+}
 ]
 
 export default members
