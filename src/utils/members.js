@@ -39,7 +39,13 @@ export const members = [
     role: "Technical Writer, Designer",
     github_username: "omegasisters",
     skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw" ]
-}
+}, 
+{
+    name: "Faraday Africa",
+    role: "Edtech Platform",
+    github_username: "faradayadmin",
+    skills: ["God abeg", "Success", "HTML", "CSS"]
+   }
 ]
 
 export default members
