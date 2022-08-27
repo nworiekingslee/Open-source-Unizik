@@ -6,7 +6,7 @@ const MemberCard = ({ data }) => {
   const [member, setMember] = useState();
 
   useEffect(() => {
-    const APIURL = "https:/g/api.github.com/users/";
+     const APIURL = "https://api.github.com/users/";
     async function getUser(username) {
       try {
         const { data } = await axios(APIURL + username);
