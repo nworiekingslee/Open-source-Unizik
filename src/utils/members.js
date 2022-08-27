@@ -38,20 +38,14 @@ export const members = [
     name: "Onyiyechi Uchechukwu",
     role: "Technical Writer, Designer",
     github_username: "omegasisters",
-    skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw"],
-  },
-  {
+    skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw" ]
+},
+{
     name: "Nweke Kenechukwu Christopher",
     role: "frontend Developer",
     github_username: "ken286",
-    skills: ["Html", "css", "javascript"],
-  },
-  {
-    name: "Nweke Kenechukwu Christopher",
-    role: "frontend Developer",
-    github_username: "ken286",
-    skills: ["Html", "css", "javascript"],
-  },
-];
+    skills: ["Html", "css", "javascript" ]
+},
+]
 
 export default members
