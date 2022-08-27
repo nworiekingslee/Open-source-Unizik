@@ -1,11 +1,5 @@
 export const members = [
 {
-    name: "Olumide Micheal",
-    role: "ALX Software Engineering Student",
-    github_username: "codewithmide",
-    skills: ["React", "Javascript", "HTML", "CSS", "C", "Python"]
-},
-{
     name: "Nworie Kingsley",
     role: "A frontend Software Engineer",
     github_username: "nworiekingslee",
@@ -34,6 +28,12 @@ export const members = [
     role: "Technical Writer, Designer",
     github_username: "omegasisters",
     skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw" ]
+},
+{
+    name: "Olumide Micheal",
+    role: "ALX Software Engineering Student",
+    github_username: "codewithmide",
+    skills: ["React", "Javascript", "HTML", "CSS", "C", "Python"]
 }
 ]
 
