@@ -38,6 +38,7 @@ export const members = [
     name: "Onyiyechi Uchechukwu",
     role: "Technical Writer, Designer",
     github_username: "omegasisters",
+
     skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw"],
   },
   {
@@ -46,6 +47,14 @@ export const members = [
     github_username: "GideonBature",
     skills: ["HTML", "CSS", "JavaScript", "Solidity", "Docker", "VMWare"],
   },
-];
+
+{
+    name: "Nweke Kenechukwu Christopher",
+    role: "frontend Developer",
+    github_username: "ken286",
+    skills: ["Html", "css", "javascript" ]
+},
+]
+
 
 export default members;
