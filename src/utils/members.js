@@ -42,6 +42,14 @@ export const members = [
     skills: ["Graphics designer", "Figma", "Photoshop", "CorelDraw"],
   },
   {
+    name: "Adedeji Tobiloba",
+    role: "Frontend Engineer",
+    github_username: "tobySolutions",
+    skills: ["React", "Javascript", "HTML", "CSS", "SASS"],
+  },
+
+
+  {
     name: "Gideon Bature",
     role: "Full-Stack Engineer, Smart Contract Engineer, DevOps",
     github_username: "GideonBature",
