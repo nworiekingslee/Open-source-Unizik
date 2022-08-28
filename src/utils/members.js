@@ -74,6 +74,12 @@ export const members = [
     github_username: "ken286",
     skills: ["Html", "css", "javascript" ]
 },
+{
+  name: "Onyemaechi Prisca",
+  role: "Frontend Developer",
+  github_username: "prisca-01",
+  skills: ["HTML", "CSS"]
+ }
 
 ]
 
