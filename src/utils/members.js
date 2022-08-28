@@ -74,6 +74,13 @@ export const members = [
     skills: ["Html", "css", "javascript"],
   },
 
+{
+  name: "Onyemaechi Prisca",
+  role: "Frontend Developer",
+  github_username: "prisca-01",
+  skills: ["HTML", "CSS"]
+ },
+
   {
     name: "Chukwuma Chigozie Samuel",
     role: "frontend Developer",
