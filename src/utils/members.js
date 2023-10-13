@@ -11,7 +11,7 @@ export const members = [
      * please do not leave anyone blank.
      */
   {
-    name: "Nworie Kingsley",
+    name: "Nworie Kingslee Ogboke",
     role: "A frontend Software Engineer",
     github_username: "nworiekingslee",
     skills: ["React", "Javascript", "HTML", "CSS"],
