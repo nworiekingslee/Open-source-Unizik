@@ -11,7 +11,7 @@ export const members = [
      * please do not leave anyone blank.
      */
   {
-    name: "Nworie Kingsley",
+    name: "Nworie Obi",
     role: "A frontend Software Engineer",
     github_username: "nworiekingslee",
     skills: ["React", "Javascript", "HTML", "CSS"],
@@ -74,18 +74,25 @@ export const members = [
     skills: ["Html", "css", "javascript"],
   },
 
-{
-  name: "Onyemaechi Prisca",
-  role: "Frontend Developer",
-  github_username: "prisca-01",
-  skills: ["HTML", "CSS"]
- },
+  {
+    name: "Onyemaechi Prisca",
+    role: "Frontend Developer",
+    github_username: "prisca-01",
+    skills: ["HTML", "CSS"],
+  },
 
   {
     name: "Chukwuma Chigozie Samuel",
     role: "frontend Developer",
     github_username: "SamChus",
     skills: ["React", "javascript", "css", "Html"],
+  },
+
+  {
+    name: "Moses Victor",
+    role: "Your role in tech",
+    github_username: "VictorMaxima",
+    skills: ["React", "Javascript", "HTML", "CSS"],
   },
 ];
 
